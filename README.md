@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevAditya07
 - 👀 I’m interested in FullStack Development | Mern | Python
-- 🌱 I’m currently learning Mern | Python
+- 🌱 I’m currently learning Backend With Java | spring | springboot
 
 
 <!---
